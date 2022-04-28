@@ -12,6 +12,7 @@
 <img width="796" alt="_2021-06-06__1 22 09" src="https://user-images.githubusercontent.com/83147205/165778383-4c452a87-a4ea-4f71-b596-2566b9c6c1a0.png">
 0으로 되어 있는 부분은 평점이 없는 영화들이다.
 구현한 모델을 적용하여 0으로 되어 있던 부분에 예측된 평점으로 채운다.
+
 ## 실행 방법
   + python.py recommender u1.base u1.test
 ## input data
